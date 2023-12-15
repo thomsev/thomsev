@@ -1,5 +1,5 @@
-![Header]![image](https://github.com/thomsev/thomsev/assets/100193213/e1c3cab1-8990-4240-8dc1-a21b199c2184)
-)
+![image](https://github.com/thomsev/thomsev/assets/100193213/e1c3cab1-8990-4240-8dc1-a21b199c2184)
+
 
 ### Hi there 👋, I'm Thomas Severinsen!
 
@@ -56,5 +56,5 @@ A: It's all about routine and involving my son in my learning journey. Sometimes
 
 ---
 
-![Footer](![image](https://github.com/thomsev/thomsev/assets/100193213/07efe35a-4995-4fac-8c4e-0b17e76dcd29)
-!)
+(![image](https://github.com/thomsev/thomsev/assets/100193213/07efe35a-4995-4fac-8c4e-0b17e76dcd29)
+
