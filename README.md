@@ -1,4 +1,4 @@
-![Header](https://via.placeholder.com/1200x400/cccccc/808080?text=Welcome+to+My+GitHub)
+![Header](https://via.placeholder.com/900x300/cccccc/808080?text=Welcome+to+My+GitHub)
 
 ### Hi there 👋, I'm [Your Name]!
 
@@ -27,7 +27,7 @@
 
 ### My GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thomsev&show_icons=true)
 
 ### Languages and Tools:
 
