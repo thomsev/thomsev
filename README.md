@@ -1,6 +1,6 @@
 ![Header](https://via.placeholder.com/900x300/cccccc/808080?text=Welcome+to+My+GitHub)
 
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Thomas Severinsen!
 
 #### Here's what I'm currently working on:
 
@@ -17,11 +17,11 @@
 
 #### How to reach me:
 
-- 📫 Catch me on Twitter: [@YourTwitterHandle](https://twitter.com/thoseverin)
+- 📫 Catch me on Twitter: [@thoseverin](https://twitter.com/thoseverin)
 
 #### Fun fact:
 
-- ⚡ I'm a proud parent balancing coding with playtime. Did you know my son can already count to 10?
+- ⚡ I'm a proud parent balancing coding with playtime. 
 
 ---
 
@@ -51,7 +51,7 @@
 A: I've always been fascinated by the creative potential of coding and the instant gratification of seeing my code come to life in a web browser.
 
 **Q: How do you balance coding and parenting?**
-A: It's all about routine and involving my son in my learning journey. Sometimes, he even helps me debug!
+A: It's all about routine and involving my son in my learning journey. Sometimes, he even helps me pick out images etc!
 
 ---
 
