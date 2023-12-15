@@ -54,7 +54,5 @@ A: I've always been fascinated by the creative potential of coding and the insta
 **Q: How do you balance coding and parenting?**
 A: It's all about routine and involving my son in my learning journey. Sometimes, he even helps me pick out images etc!
 
----
-
-(![image](https://github.com/thomsev/thomsev/assets/100193213/07efe35a-4995-4fac-8c4e-0b17e76dcd29)
+#### Thank you for stopping by! have a great day!
 
